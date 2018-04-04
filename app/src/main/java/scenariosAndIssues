@@ -1,0 +1,35 @@
+Scenarios to be tested if app has various kinds of users
+
+1 Login test
+	Login with correct username and password - successful login
+	Login with wrong username and correct password - display error message
+	Login with correct username and wrong password - display error message
+	Login with wrong username and password - display error message
+	Login as a driver - view driver details
+	Login as normal user - view user details
+	Login as Admin - view admin privileges
+
+2 Details pages
+	Logged in user should be able to view history of trips
+	Changed preferences settings eg payment method, images, password
+	If user is not logged in, redirect them to login screen
+
+3 Register user
+	Test registering a user/driver/admin
+	Verify successful registration via email
+	Verify registration details
+	Verify payment method i.e cash, mobile payment, credit card
+	Verify payment method information
+
+4 Trips
+	Verify location is correct
+	Verify location change
+	View progress of trip before pick up and during trip
+	User - view driver details i.e profile, car registration number etc
+	Driver - view requester details i.e profile, name, location, phone number etc
+	Trip report - from, to, driver, payment mode and time for the trip
+
+UX issues/improvements
+	Display a link to change password in case forgotten
+	Username is clearly legible - white background color on yellow background
+	In the driver profile page, add navigation buttons to home page
