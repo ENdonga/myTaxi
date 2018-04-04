@@ -1,0 +1,296 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:2:1-51:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0c0b4911a84838b85cf62305e5990910\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\7ae82635519b7bc21491108ffa9af683\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\cf5bce2e00521824b57d56b5cbdf2e52\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\22350fc3a287a2b46d3de0e8991281cd\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-places:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-places-11.6.0.aar\8dc4be49309affb5d08268b8e95f477e\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\255501b4695c301be6aad462b81d5151\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-location:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-location-11.6.0.aar\a161f5667362a245167e31732d4c21b4\AndroidManifest.xml:2:1-5:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\2217251bd9e99dcac69d4464b802e39a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e133372d9c7d35276a455d3af43485a0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\449a95af3a3275f7e4706a566cc0f899\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\eb5c394c7eb1021bb4c6c78e48b04d5c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\c2f9ab72f6158680cda604e0a91841c7\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.0.aar\943bba252b931c5a839cccc2913f82b7\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\05fc573af784d984855b1f8dd1520e8c\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\18d68b35abf506d4caa6296e2b34ee11\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\1ee3e8fc07721113cb0226f1f926427d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\f3a0eafa2b36c339a689f82253548dc5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7dec73bd05446bb407010d01a37572ee\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a342d86675538901b1689c54d78f15da\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\c3dc2faafcd2189681f00922cd1f2e75\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.0.aar\2708cced4190b99dda7ae269741bc6f0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-places-license:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-places-license-11.6.0.aar\8df469621d0230cb89006ece661e3548\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-location-license:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.6.0.aar\fd767f8dd4a90d8211bfa3d031363ef4\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.0.aar\67b042686c2db077543fbc8481b30b29\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\ba91efce2f87b39eabe63191920a6d47\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.0.aar\ebb877fdca83e5cf45d484bbe488b0a4\AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ef83071a87ce59668d8b107b953416d8\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:2:1-51:12
+		INJECTED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:2:1-51:12
+		INJECTED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:10:22-76
+application
+ADDED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:12:5-49:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0c0b4911a84838b85cf62305e5990910\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0c0b4911a84838b85cf62305e5990910\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\7ae82635519b7bc21491108ffa9af683\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\7ae82635519b7bc21491108ffa9af683\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\cf5bce2e00521824b57d56b5cbdf2e52\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\cf5bce2e00521824b57d56b5cbdf2e52\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\22350fc3a287a2b46d3de0e8991281cd\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\22350fc3a287a2b46d3de0e8991281cd\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-places:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-places-11.6.0.aar\8dc4be49309affb5d08268b8e95f477e\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-places-11.6.0.aar\8dc4be49309affb5d08268b8e95f477e\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\255501b4695c301be6aad462b81d5151\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\255501b4695c301be6aad462b81d5151\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-location:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-location-11.6.0.aar\a161f5667362a245167e31732d4c21b4\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-location-11.6.0.aar\a161f5667362a245167e31732d4c21b4\AndroidManifest.xml:4:5-19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\2217251bd9e99dcac69d4464b802e39a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\2217251bd9e99dcac69d4464b802e39a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e133372d9c7d35276a455d3af43485a0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e133372d9c7d35276a455d3af43485a0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\449a95af3a3275f7e4706a566cc0f899\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\449a95af3a3275f7e4706a566cc0f899\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\eb5c394c7eb1021bb4c6c78e48b04d5c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\eb5c394c7eb1021bb4c6c78e48b04d5c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\c2f9ab72f6158680cda604e0a91841c7\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\c2f9ab72f6158680cda604e0a91841c7\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.0.aar\943bba252b931c5a839cccc2913f82b7\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.0.aar\943bba252b931c5a839cccc2913f82b7\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\05fc573af784d984855b1f8dd1520e8c\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\05fc573af784d984855b1f8dd1520e8c\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\18d68b35abf506d4caa6296e2b34ee11\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\18d68b35abf506d4caa6296e2b34ee11\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\1ee3e8fc07721113cb0226f1f926427d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\1ee3e8fc07721113cb0226f1f926427d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\f3a0eafa2b36c339a689f82253548dc5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\f3a0eafa2b36c339a689f82253548dc5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7dec73bd05446bb407010d01a37572ee\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7dec73bd05446bb407010d01a37572ee\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a342d86675538901b1689c54d78f15da\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a342d86675538901b1689c54d78f15da\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\c3dc2faafcd2189681f00922cd1f2e75\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\c3dc2faafcd2189681f00922cd1f2e75\AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.0.aar\2708cced4190b99dda7ae269741bc6f0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.0.aar\2708cced4190b99dda7ae269741bc6f0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-places-license:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-places-license-11.6.0.aar\8df469621d0230cb89006ece661e3548\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-places-license:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-places-license-11.6.0.aar\8df469621d0230cb89006ece661e3548\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.6.0.aar\fd767f8dd4a90d8211bfa3d031363ef4\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.6.0.aar\fd767f8dd4a90d8211bfa3d031363ef4\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.0.aar\67b042686c2db077543fbc8481b30b29\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.0.aar\67b042686c2db077543fbc8481b30b29\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\ba91efce2f87b39eabe63191920a6d47\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\ba91efce2f87b39eabe63191920a6d47\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.0.aar\ebb877fdca83e5cf45d484bbe488b0a4\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.0.aar\ebb877fdca83e5cf45d484bbe488b0a4\AndroidManifest.xml:5:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ef83071a87ce59668d8b107b953416d8\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ef83071a87ce59668d8b107b953416d8\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:18:9-40
+	android:name
+		ADDED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:19:9-28
+activity#com.mytaxi.android_demo.activities.MainActivity
+ADDED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:20:9-29:20
+	android:label
+		ADDED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:22:13-45
+	android:theme
+		ADDED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:23:13-56
+	android:name
+		ADDED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:21:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:27:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:38:9-40:55
+	android:value
+		ADDED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:40:13-52
+	android:name
+		ADDED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:39:13-58
+activity#com.mytaxi.android_demo.activities.DriverProfileActivity
+ADDED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:42:9-45:68
+	android:label
+		ADDED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:44:13-66
+	android:theme
+		ADDED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:45:13-56
+	android:name
+		ADDED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:43:13-61
+activity#com.mytaxi.android_demo.activities.AuthenticationActivity
+ADDED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:46:9-48:78
+	android:label
+		ADDED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:48:13-66
+	android:name
+		ADDED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml:47:13-62
+uses-sdk
+INJECTED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0c0b4911a84838b85cf62305e5990910\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0c0b4911a84838b85cf62305e5990910\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\7ae82635519b7bc21491108ffa9af683\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\7ae82635519b7bc21491108ffa9af683\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\cf5bce2e00521824b57d56b5cbdf2e52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\cf5bce2e00521824b57d56b5cbdf2e52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\22350fc3a287a2b46d3de0e8991281cd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\22350fc3a287a2b46d3de0e8991281cd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-places:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-places-11.6.0.aar\8dc4be49309affb5d08268b8e95f477e\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-places-11.6.0.aar\8dc4be49309affb5d08268b8e95f477e\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\255501b4695c301be6aad462b81d5151\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\255501b4695c301be6aad462b81d5151\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-location:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-location-11.6.0.aar\a161f5667362a245167e31732d4c21b4\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-location-11.6.0.aar\a161f5667362a245167e31732d4c21b4\AndroidManifest.xml:3:5-43
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\2217251bd9e99dcac69d4464b802e39a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\2217251bd9e99dcac69d4464b802e39a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e133372d9c7d35276a455d3af43485a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e133372d9c7d35276a455d3af43485a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\449a95af3a3275f7e4706a566cc0f899\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\449a95af3a3275f7e4706a566cc0f899\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\eb5c394c7eb1021bb4c6c78e48b04d5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\eb5c394c7eb1021bb4c6c78e48b04d5c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\c2f9ab72f6158680cda604e0a91841c7\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\c2f9ab72f6158680cda604e0a91841c7\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.0.aar\943bba252b931c5a839cccc2913f82b7\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.0.aar\943bba252b931c5a839cccc2913f82b7\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\05fc573af784d984855b1f8dd1520e8c\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\05fc573af784d984855b1f8dd1520e8c\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\18d68b35abf506d4caa6296e2b34ee11\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\18d68b35abf506d4caa6296e2b34ee11\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\1ee3e8fc07721113cb0226f1f926427d\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\1ee3e8fc07721113cb0226f1f926427d\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\f3a0eafa2b36c339a689f82253548dc5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\f3a0eafa2b36c339a689f82253548dc5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7dec73bd05446bb407010d01a37572ee\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7dec73bd05446bb407010d01a37572ee\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a342d86675538901b1689c54d78f15da\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a342d86675538901b1689c54d78f15da\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\c3dc2faafcd2189681f00922cd1f2e75\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\c3dc2faafcd2189681f00922cd1f2e75\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.0.aar\2708cced4190b99dda7ae269741bc6f0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.0.aar\2708cced4190b99dda7ae269741bc6f0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-places-license:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-places-license-11.6.0.aar\8df469621d0230cb89006ece661e3548\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-places-license:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-places-license-11.6.0.aar\8df469621d0230cb89006ece661e3548\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.6.0.aar\fd767f8dd4a90d8211bfa3d031363ef4\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.6.0.aar\fd767f8dd4a90d8211bfa3d031363ef4\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.0.aar\67b042686c2db077543fbc8481b30b29\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.0.aar\67b042686c2db077543fbc8481b30b29\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\ba91efce2f87b39eabe63191920a6d47\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\ba91efce2f87b39eabe63191920a6d47\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.0.aar\ebb877fdca83e5cf45d484bbe488b0a4\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.0.aar\ebb877fdca83e5cf45d484bbe488b0a4\AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ef83071a87ce59668d8b107b953416d8\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ef83071a87ce59668d8b107b953416d8\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0c0b4911a84838b85cf62305e5990910\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Incentro\AndroidStudioProjects\MobileAppAutomationTest-master\AndroidDemo\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0c0b4911a84838b85cf62305e5990910\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\7ae82635519b7bc21491108ffa9af683\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\7ae82635519b7bc21491108ffa9af683\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\cf5bce2e00521824b57d56b5cbdf2e52\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\cf5bce2e00521824b57d56b5cbdf2e52\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\2217251bd9e99dcac69d4464b802e39a\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\2217251bd9e99dcac69d4464b802e39a\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e133372d9c7d35276a455d3af43485a0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e133372d9c7d35276a455d3af43485a0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\449a95af3a3275f7e4706a566cc0f899\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\449a95af3a3275f7e4706a566cc0f899\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\eb5c394c7eb1021bb4c6c78e48b04d5c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\eb5c394c7eb1021bb4c6c78e48b04d5c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\18d68b35abf506d4caa6296e2b34ee11\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\18d68b35abf506d4caa6296e2b34ee11\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\1ee3e8fc07721113cb0226f1f926427d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\1ee3e8fc07721113cb0226f1f926427d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\f3a0eafa2b36c339a689f82253548dc5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\f3a0eafa2b36c339a689f82253548dc5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7dec73bd05446bb407010d01a37572ee\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7dec73bd05446bb407010d01a37572ee\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a342d86675538901b1689c54d78f15da\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a342d86675538901b1689c54d78f15da\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\c3dc2faafcd2189681f00922cd1f2e75\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\c3dc2faafcd2189681f00922cd1f2e75\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0c0b4911a84838b85cf62305e5990910\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0c0b4911a84838b85cf62305e5990910\AndroidManifest.xml:27:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\255501b4695c301be6aad462b81d5151\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\255501b4695c301be6aad462b81d5151\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\255501b4695c301be6aad462b81d5151\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\255501b4695c301be6aad462b81d5151\AndroidManifest.xml:20:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\255501b4695c301be6aad462b81d5151\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\255501b4695c301be6aad462b81d5151\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\255501b4695c301be6aad462b81d5151\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\c2f9ab72f6158680cda604e0a91841c7\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\c2f9ab72f6158680cda604e0a91841c7\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\c2f9ab72f6158680cda604e0a91841c7\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\c2f9ab72f6158680cda604e0a91841c7\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\05fc573af784d984855b1f8dd1520e8c\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\05fc573af784d984855b1f8dd1520e8c\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\05fc573af784d984855b1f8dd1520e8c\AndroidManifest.xml:20:20-65
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ef83071a87ce59668d8b107b953416d8\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ef83071a87ce59668d8b107b953416d8\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Incentro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ef83071a87ce59668d8b107b953416d8\AndroidManifest.xml:26:13-58
